@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 ## Run the Project
 
 npm install
+
 npm run dev
 
 ## Expanding the ESLint configuration
